@@ -1,15 +1,22 @@
 body{
     background-color: rgb(89, 201, 177);
+    line-height: ;
 }
 h1{
     color: rgb(89, 201, 177);
     background-color: bisque;
     text-align: center;
     font-size: 10em;
+    letter-spacing: 0.5m;
 }
 h3{
     color: bisque;
 }
-h2{
+h4{
     text-align: center;
+    
+h2{
+    font-style: oblique;
+    font-weight: bold;
+    text-transform: capitalize;
 }
