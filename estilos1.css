@@ -1,5 +1,39 @@
 /* Estilos para la página web */
-body{
+body {
     background-color: rgb(165, 190, 245);
     font-size: 16px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #fff;
+    text-align: center;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.parrafo {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+
+#fondo {
+    background-color: #f1db9d;
+}
+p a {  
+    color: #333;  
+    text-decoration: none;
+    }
+h2{
+    text-decoration:underline
 }
